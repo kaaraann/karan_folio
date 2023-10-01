@@ -47,7 +47,7 @@ footer {
     background-color: lightgray;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1220px) {
     header {
         font-size: 24px;
     }
