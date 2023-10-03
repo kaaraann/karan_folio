@@ -53,6 +53,8 @@ footer {
     }
     
     .about, .Background, .Skills, .contact {
+        height: 500px;
+        width: auto;
         margin: 10px;
         padding: 10px;
     }
